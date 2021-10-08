@@ -1,0 +1,10 @@
+body {
+    background-image: url('https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/03/dc-marvel-superheroes-display.jpg');
+  }
+  h1 {
+    color:rgb(252, 172, 0);
+    text-align: center;
+    
+    /* margin-left: 20px; */
+    font-family: Helvetica, Verdana, Arial, sans-serif;
+ }
